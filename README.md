@@ -2,8 +2,6 @@
 # 💫 About Me:
 🔭 I’m currently working on personal projects involving data analysis and visualization, while also taking on freelance work.<br>👯 I’m looking to collaborate on any project that involves problem-solving with data.<br>🤝 I’m looking for help with finding suitable public datasets for data analysis and visualization practice.<br>🌱 I’m currently learning about deep learning and its applications in data analysis.<br>💬 Ask me about anything<br>⚡ Fun fact i love to learn new things
 
-<img width=”200" height=”200" src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt=”my banner”>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvillage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvillage-zuknisianta-ab5b82137) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@azuknisianta) 
