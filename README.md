@@ -103,7 +103,7 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alvillagezuknisianta?country.x=ID&locale.x=en_US)
 
 ## Coffee
-![](https://saweria.co/widgets/qr?streamKey=42564f9030d9a137d94af1d55bce8aff)
+[![Saweria](https://saweria.co/widgets/qr?streamKey=42564f9030d9a137d94af1d55bce8aff)](https://saweria.co/azuknisianta)
   
 
   
