@@ -2,7 +2,6 @@
 # 💫 About Me:
 🔭 I’m currently working on personal projects involving data analysis and visualization, while also taking on freelance work.<br>👯 I’m looking to collaborate on any project that involves problem-solving with data.<br>🤝 I’m looking for help with finding suitable public datasets for data analysis and visualization practice.<br>🌱 I’m currently learning about deep learning and its applications in data analysis.<br>💬 Ask me about anything<br>⚡ Fun fact i love to learn new things
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alvillage) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvillage-zuknisianta-ab5b82137) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@azuknisianta) 
 
@@ -103,7 +102,7 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alvillagezuknisianta?country.x=ID&locale.x=en_US)
 
 ## Coffee
-[![Saweria](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F01c81f8c-18c9-47d7-b7ad-c04058016626_225x225.png?w=100&h=100)](https://saweria.co/azuknisianta)
+[![Saweria](https://github.com/user-attachments/assets/ac2b29d5-fa89-4b6e-96b2-c7bbeb860652)](https://saweria.co/azuknisianta)
   
 
   
