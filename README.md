@@ -98,11 +98,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Azukii09&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help me to buy a coffee by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alvillagezuknisianta?country.x=ID&locale.x=en_US)
-
-## Coffee
-[![Saweria](https://github.com/user-attachments/assets/ac2b29d5-fa89-4b6e-96b2-c7bbeb860652)](https://saweria.co/azuknisianta)
+  [![Saweria](https://github.com/user-attachments/assets/ac2b29d5-fa89-4b6e-96b2-c7bbeb860652)](https://saweria.co/azuknisianta)
   
 
   
