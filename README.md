@@ -1,4 +1,6 @@
-![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MyOHB1dzZ5bnM0Y3hodzg5MWVleGVyeTg4aXl1ankzemcwZTdodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ANEMBweHi7a7e7GYrP/giphy.gif)
+<!--![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MyOHB1dzZ5bnM0Y3hodzg5MWVleGVyeTg4aXl1ankzemcwZTdodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ANEMBweHi7a7e7GYrP/giphy.gif) -->
+
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MyOHB1dzZ5bnM0Y3hodzg5MWVleGVyeTg4aXl1ankzemcwZTdodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ANEMBweHi7a7e7GYrP/giphy.gif">
 # 💫 About Me:
 🔭 I’m currently working on personal projects involving data analysis and visualization, while also taking on freelance work.<br>👯 I’m looking to collaborate on any project that involves problem-solving with data.<br>🤝 I’m looking for help with finding suitable public datasets for data analysis and visualization practice.<br>🌱 I’m currently learning about deep learning and its applications in data analysis.<br>💬 Ask me about anything<br>⚡ Fun fact i love to learn new things
 
