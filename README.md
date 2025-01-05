@@ -1,6 +1,6 @@
 <!--![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MyOHB1dzZ5bnM0Y3hodzg5MWVleGVyeTg4aXl1ankzemcwZTdodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ANEMBweHi7a7e7GYrP/giphy.gif) -->
 
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2MyOHB1dzZ5bnM0Y3hodzg5MWVleGVyeTg4aXl1ankzemcwZTdodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ANEMBweHi7a7e7GYrP/giphy.gif">
+<img align='right' src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 # 💫 About Me:
 🔭 I’m currently working on personal projects involving data analysis and visualization, while also taking on freelance work.<br><br>👯 I’m looking to collaborate on any project that involves problem-solving with data.<br><br>🤝 I’m looking for help with finding suitable public datasets for data analysis and visualization practice.<br><br>🌱 I’m currently learning about deep learning and its applications in data analysis.<br><br>💬 Ask me about anything<br><br>⚡ Fun fact i love to learn new things
