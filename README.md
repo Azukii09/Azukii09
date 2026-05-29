@@ -78,6 +78,12 @@ Currently exploring:
 
 ---
 
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Azukii09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 # ☕ Support Me
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alvillagezuknisianta?country.x=ID&locale.x=en_US)
